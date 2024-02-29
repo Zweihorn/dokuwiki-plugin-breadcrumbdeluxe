@@ -1,7 +1,8 @@
 # General Plugin Info
 base   breadcrumbdeluxe
 author Bjoern Ellebrecht
-email  2024-02-29
+email  dokuwiki.development@c0de8.com
+date   2024-02-29
 name   Breadcrumb plugin (deluxe version)
 desc   replace the internal breadcrumb with a much better variant
 #url   https://www.dokuwiki.org/plugin:breadcrumbdeluxe
