@@ -1,6 +1,6 @@
 # General Plugin Info
 base   breadcrumbdeluxe
-author Bjoern Ellebrecht
+author Björn Ellebrecht
 email  dokuwiki.development@c0de8.com
 date   2024-02-29
 name   Breadcrumb plugin (deluxe version)
